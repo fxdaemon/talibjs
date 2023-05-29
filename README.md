@@ -4,7 +4,7 @@ Port the TA-Lib C library to WebAssembly, including all indicators from the orig
 ## Installation
 
 ```bash
-npm install talibjs
+npm install @fxdaemon/talibjs
 ```
 
 ## Usage
