@@ -1,0 +1,24 @@
+{
+  "name": "talibjs",
+  "version": "1.0.0",
+  "description": "TA-Lib C library ported to WebAssembly",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fxdaemon/talibjs.git"
+  },
+  "keywords": [
+    "ta-lib",
+    "talib",
+    "wasm",
+    "webassembly",
+    "technical analysis",
+    "indicators"
+  ],
+  "author": "fxdaemon.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/fxdaemon/talibjs/issues"
+  },
+  "homepage": "https://github.com/fxdaemon/talibjs#readme"
+}
