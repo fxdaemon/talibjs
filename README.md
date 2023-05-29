@@ -10,8 +10,8 @@ npm install talibjs
 ## Usage
 
 ```javascript
-const talib = require('talibjs')
-// Or: import talib from 'talibjs';
+const talib = require('@fxdaemon/talibjs');
+// Or: import talib from '@fxdaemon/talibjs';
 
 async function run() {
   await talib.load();

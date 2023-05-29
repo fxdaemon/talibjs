@@ -1,5 +1,5 @@
 {
-  "name": "talibjs",
+  "name": "@fxdaemon/talibjs",
   "version": "1.0.0",
   "description": "TA-Lib C library ported to WebAssembly",
   "main": "index.js",
